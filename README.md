@@ -29,7 +29,6 @@ the data was cleaned by
 
  ### share
 
+ -using Power BI i was able to create an interactive dashboard to visualize major aspects of the data
 
-    -using Power BI i was able to create an interactive dashboard to visualize major aspects of the data
-    ![Screenshot (6)](https://github.com/AbdelrahmanHemdan17/HR-Analytics-Dashboard/assets/161534505/16cc0b56-539b-4af5-befe-2f9b9f9402ac)
-
+ ![Screenshot (6)](https://github.com/AbdelrahmanHemdan17/HR-Analytics-Dashboard/assets/161534505/13567538-534b-48d9-a3b2-0233bad277c9)
