@@ -32,3 +32,9 @@ the data was cleaned by
  -using Power BI i was able to create an interactive dashboard to visualize major aspects of the data
 
  ![Screenshot (6)](https://github.com/AbdelrahmanHemdan17/HR-Analytics-Dashboard/assets/161534505/13567538-534b-48d9-a3b2-0233bad277c9)
+
+ ### Action 
+
+ - More guidlines were conducted to increase salaries for different job roles as it's directly proportional to job satisfaction
+ - More Gender equality measures were applied
+ - 
