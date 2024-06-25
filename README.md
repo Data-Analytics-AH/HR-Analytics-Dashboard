@@ -37,4 +37,4 @@ the data was cleaned by
 
  - More guidlines were conducted to increase salaries for different job roles as it's directly proportional to job satisfaction
  - More Gender equality measures were applied
- - 
+ - A new hiring systems were applied at certain industries to decrease employees turnover
