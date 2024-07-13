@@ -31,7 +31,8 @@ the data was cleaned by
 
  -using Power BI i was able to create an interactive dashboard to visualize major aspects of the data
 
- ![Screenshot (6)](https://github.com/AbdelrahmanHemdan17/HR-Analytics-Dashboard/assets/161534505/13567538-534b-48d9-a3b2-0233bad277c9)
+![Screenshot (55)](https://github.com/user-attachments/assets/53836217-79c4-422b-9b4b-e93a3a9e45ff)
+
 
  ### Action 
 
